@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-form {
+  margin: 30px;
+}

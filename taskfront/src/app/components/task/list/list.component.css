@@ -1,0 +1,60 @@
+.list h1 {
+  font-weight: 500;
+  padding: 10px 12px 0 12px;
+  background: #f3f5fa;
+}
+.list {
+  background: #f3f5fa;
+  margin-bottom: 65px;
+}
+mat-selection-list {
+  height: 100%;
+}
+.mat-list-option-cover {
+  padding: 15px;
+}
+mat-list-option {
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px 0 10px 0;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+}
+
+.mat-list-item {
+  height: 70px !important;
+}
+.task-date {
+  color: #ccc;
+}
+
+.container-list{
+  margin: 30px 30px 30px 30px;
+  padding: 80px;
+}
+
+
+
+
+.container-list {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+}
+
+.list {
+  flex-basis: 70%;
+  background: #f3f5fa;
+  padding: 20px;
+}
+
+.image-container {
+  flex-basis: 40%;
+  padding: 20px;
+}
+
+.image-container img {
+  max-width: 100%;
+  height: auto;
+}
